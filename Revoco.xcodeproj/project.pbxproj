@@ -125,7 +125,7 @@
 		2581F44A16F0D3B700C5B391 = {
 			isa = PBXGroup;
 			children = (
-				2581F45C16F0D3B700C5B391 /* MapNotes2 */,
+				2581F45C16F0D3B700C5B391 /* Revoco */,
 				2581F48616F0D3B700C5B391 /* MapNotes2Tests */,
 				2581F45516F0D3B700C5B391 /* Frameworks */,
 				2581F45416F0D3B700C5B391 /* Products */,
@@ -155,7 +155,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		2581F45C16F0D3B700C5B391 /* MapNotes2 */ = {
+		2581F45C16F0D3B700C5B391 /* Revoco */ = {
 			isa = PBXGroup;
 			children = (
 				251ADAFC1704E12A00C641B2 /* BMWNote.h */,
@@ -183,6 +183,7 @@
 				25CC492916FF8B4800005F8A /* BMWDataManager.m */,
 				2581F45D16F0D3B700C5B391 /* Supporting Files */,
 			);
+			name = Revoco;
 			path = MapNotes2;
 			sourceTree = "<group>";
 		};
@@ -268,7 +269,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Benjamin Wang";
 			};
-			buildConfigurationList = 2581F44E16F0D3B700C5B391 /* Build configuration list for PBXProject "MapNotes2" */;
+			buildConfigurationList = 2581F44E16F0D3B700C5B391 /* Build configuration list for PBXProject "Revoco" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -518,7 +519,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2581F44E16F0D3B700C5B391 /* Build configuration list for PBXProject "MapNotes2" */ = {
+		2581F44E16F0D3B700C5B391 /* Build configuration list for PBXProject "Revoco" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2581F48F16F0D3B700C5B391 /* Debug */,
